@@ -3,384 +3,264 @@
 更新时间：2026-06-12
 
 词条
-
 Satoru Gojo=五条悟
 Gojo Satoru=五条悟
-
 Suguru Geto=夏油杰
 Geto Suguru=夏油杰
-
 Gojo Satoru=五条悟
 Satoru Gojo=五条悟
 GOJO SATORU=五条悟
 SATORU GOJO=五条悟
-
 Geto Suguru=夏油杰
 Suguru Geto=夏油杰
 GETO SUGURU=夏油杰
 SUGURU GETO=夏油杰
-
 Gojo=五条
 gojo=五条
 GOJO=五条
-
 Satoru=悟
 satoru=悟
 SATORU=悟
-
 Geto=夏油
 geto=夏油
 GETO=夏油
-
 Suguru=杰
 suguru=杰
 SUGURU=杰
-
+Geto Suguru=夏油杰
+Suguru Geto=夏油杰
+geto suguru=夏油杰
+suguru geto=夏油杰
+须贺=杰
+夏油须贺=夏油杰
+须贺夏油=夏油杰
+Gojo Satoru=五条悟
+Satoru Gojo=五条悟
+gojo satoru=五条悟
+satoru gojo=五条悟
+悟五条=五条悟
 Gojo-kun=五条
 Gojo-san=五条
 Gojo-sensei=五条老师
-
 Geto-kun=夏油
 Geto-san=夏油
 Geto-sensei=夏油老师
-
 Satoru-kun=悟
 Satoru-san=悟
-
 Suguru-kun=杰
 Suguru-san=杰
-
 Gojo and Geto=五条和夏油
 Geto and Gojo=夏油和五条
-
 Gojo/Geto=五夏
 Geto/Gojo=夏五
-
 Satoru/Suguru=五夏
 Suguru/Satoru=夏五
-
 Gojo x Geto=五夏
 Geto x Gojo=夏五
-
 Gojo×Geto=五夏
 Geto×Gojo=夏五
-
 Satosugu=五夏
 satosugu=五夏
-
 Sugusato=夏五
 sugusato=夏五
-
 Satosugu=五夏
 SuguSato=夏五
-
 Jujutsu Kaisen=咒术回战
 JJK=咒术回战
-
 Tokyo Jujutsu High=东京咒术高专
 Jujutsu High=咒术高专
-
 Cursed Spirit=咒灵
 Cursed Spirits=咒灵
-
 Curse User=诅咒师
 Curse Users=诅咒师
-
 Cursed Technique=术式
 Cursed Techniques=术式
-
 Reverse Cursed Technique=反转术式
-
 Domain Expansion=领域展开
-
 Innate Technique=生得术式
-
 Barrier Technique=结界术
-
 Limitless=无下限术式
 Infinity=无下限
 Six Eyes=六眼
-
 Hollow Purple=茈
 Blue=苍
 Red=赫
-
 Star Plasma Vessel=星浆体
-
 Hidden Inventory=怀玉篇
 Premature Death=玉折篇
-
 Night Parade of a Hundred Demons=百鬼夜行
-
 Kenjaku=羂索
 Sukuna=宿傩
 Choso=胀相
-
 Yuji Itadori=虎杖悠仁
 Itadori Yuji=虎杖悠仁
 Yuji=悠仁
 Itadori=虎杖
-
 Megumi Fushiguro=伏黑惠
 Fushiguro Megumi=伏黑惠
 Megumi=惠
 Fushiguro=伏黑
-
 Nobara Kugisaki=钉崎野蔷薇
 Kugisaki Nobara=钉崎野蔷薇
 Nobara=野蔷薇
 Kugisaki=钉崎
-
 Yuta Okkotsu=乙骨忧太
 Okkotsu Yuta=乙骨忧太
 Yuta=忧太
 Okkotsu=乙骨
-
 Maki Zenin=禅院真希
 Zenin Maki=禅院真希
-
 Toge Inumaki=狗卷棘
 Inumaki Toge=狗卷棘
-
 Shoko Ieiri=家入硝子
 Ieiri Shoko=家入硝子
-
 Nanami Kento=七海建人
 Kento Nanami=七海建人
-
 Haibara Yu=灰原雄
 Yu Haibara=灰原雄
-
 Toji Fushiguro=伏黑甚尔
 Fushiguro Toji=伏黑甚尔
-
 Top Gojo Satoru=攻五条悟
 Bottom Gojo Satoru=受五条悟
-
 Top Geto Suguru=攻夏油杰
 Bottom Geto Suguru=受夏油杰
-
 Top Satoru Gojo=攻五条悟
 Bottom Satoru Gojo=受五条悟
-
 Top Suguru Geto=攻夏油杰
 Bottom Suguru Geto=受夏油杰
-
 Power Bottom Geto Suguru=强势受夏油杰
 Power Bottom Suguru Geto=强势受夏油杰
-
 Service Top Gojo Satoru=服务型攻五条悟
 Service Top Satoru Gojo=服务型攻五条悟
-
 Switching=互攻
 Switch Couple=互攻
-
 Top=攻
 Bottom=受
-
 Dom=支配方
 Sub=顺从方
-
 Hurt/Comfort=伤害与安慰
 Angst=虐心
 Fluff=甜饼
-
 Mutual Pining=双向暗恋
 Slow Burn=慢热恋爱
-
 Friends to Lovers=朋友变恋人
 Enemies to Lovers=宿敌变恋人
-
 Established Relationship=已交往
 Getting Together=恋爱发展
-
 Domestic Fluff=同居日常
-
 Time Travel=时间穿越
 Time Loop=时间循环
-
 Alternate Universe=架空设定
 Alternate Universe - Canon Divergence=原作分歧架空
-
 AU=架空设定
-
 Fix-It=修正原作
-
 PWP=无剧情纯车
 Porn Without Plot=无剧情纯车
 Plot What Plot=无剧情纯车
-
 One Shot=一发完
 Drabble=短篇
-
 Canon=原作设定
 Headcanon=个人设定
 Fanon=同人共识
-
 OOC=角色性格偏离原作
 IC=符合原作性格
-
 POV=视角
-
 WIP=连载中
 Complete=已完结
-
 Dead Dove: Do Not Eat=死鸽预警
-
 Major Character Death=主要角色死亡
-
 Graphic Depictions of Violence=暴力描写
-
 No Archive Warnings Apply=无预警内容
-
 Creator Chose Not To Use Archive Warnings=作者未使用预警
 Strongest=最强
-
 The Strongest=最强
-
 Blue Eyes=蓝眼睛
 Blue-eyed Sorcerer=蓝眼睛术师
-
 White-Haired Sorcerer=白发术师
 White Haired Sorcerer=白发术师
-
 White-haired Man=白发男人
-
 Gojo Clan=五条家
 The Gojo Clan=五条家
-
 Geto Cult=盘星教
 Time Vessel Association=盘星教
-
 Cult Leader=教主
 The Cult Leader=教主
-
 Monk Geto=教主杰
 Monk Suguru=教主杰
-
 Teacher Gojo=教师悟
 Professor Gojo=教授悟
-
 Sugu=杰
 Sugu-chan=小杰
-
 Satoru-kun=悟
 Suguru-kun=杰
-
 Satosugu=五夏
 SatoSugu=五夏
-
 Sugusato=夏五
 SuguSato=夏五
-
 Soulmates=灵魂伴侣
 Soulmate AU=灵魂伴侣AU
-
 Star-Crossed Lovers=命运多舛的恋人
-
 Childhood Friends=幼驯染
 Best Friends=挚友
-
 Former Best Friends=昔日挚友
-
 Ex-Best Friends=曾经的挚友
-
 Friends with Benefits=炮友关系
-
 Roommates=室友
-
 College AU=大学AU
 University AU=大学AU
-
 Modern AU=现代AU
-
 Canon Compliant=符合原作
 Canon Divergence=原作分歧
-
 Post-Shibuya=涩谷事变后
-
 Hidden Inventory Arc=怀玉篇
 Premature Death Arc=玉折篇
-
 Shinjuku Showdown=新宿决战
-
 Geto Lives=夏油存活
-
 Geto Survives=夏油存活
-
 Fix-It AU=拯救线AU
-
 Everyone Lives=全员存活
-
 No One Dies=无人死亡
-
 Happy Ending=HE
 Happy End=HE
-
 Bittersweet Ending=苦甜结局
-
 Hurt Geto Suguru=受伤的夏油杰
 Hurt Suguru Geto=受伤的夏油杰
-
 Protective Gojo Satoru=保护欲强的五条悟
 Protective Satoru Gojo=保护欲强的五条悟
-
 Possessive Gojo Satoru=占有欲强的五条悟
 Possessive Satoru Gojo=占有欲强的五条悟
-
 Jealous Gojo Satoru=吃醋的五条悟
 Jealous Satoru Gojo=吃醋的五条悟
-
 Obsessive Gojo Satoru=执着的五条悟
 
 Protective Geto Suguru=保护欲强的夏油杰
 
 Soft Geto Suguru=温柔的夏油杰
 Soft Suguru Geto=温柔的夏油杰
-
 Soft Gojo Satoru=温柔的五条悟
-
 Depressed Geto Suguru=抑郁的夏油杰
 Lonely Geto Suguru=孤独的夏油杰
-
 Emotionally Constipated Gojo Satoru=不擅表达感情的五条悟
-
 Touch-Starved Geto Suguru=渴望肢体接触的夏油杰
-
 Touch-Starved Gojo Satoru=渴望肢体接触的五条悟
-
 Bottom Geto Suguru=受夏油杰
 Bottom Suguru Geto=受夏油杰
-
 Top Gojo Satoru=攻五条悟
 Top Satoru Gojo=攻五条悟
-
 Power Bottom Geto Suguru=强势受夏油杰
-
 Size Difference=体型差
-
 Praise Kink=夸奖癖
 Possessiveness=占有欲
-
 Cuddling=拥抱贴贴
 Kissing=接吻
-
 Hand Holding=牵手
-
 Mutual Pining=双向暗恋
-
 Unrequited Love=单恋
-
 Love Confessions=告白
-
 First Kiss=初吻
-
 Slow Burn Romance=慢热恋爱
-
 Domestic Life=同居生活
-
 Married Gojo Satoru=已婚五条悟
 Married Geto Suguru=已婚夏油杰
-
 Husband Gojo Satoru=丈夫五条悟
 Husband Geto Suguru=丈夫夏油杰
