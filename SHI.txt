@@ -1,10 +1,9 @@
 维护者：Bwyane Bw
-版本号：5.0.0
+版本号：7.0.0
 更新时间：2026-06-12
 
 词条
 
-Gojo=五条
-Satoru=悟
-Geto=夏油
-Suguru=杰
+Suguru=测试杰
+suguru=测试杰
+SUGURU=测试杰
