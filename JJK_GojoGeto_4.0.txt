@@ -1,0 +1,165 @@
+Gojo=五条
+gojo=五条
+GOJO=五条
+
+Satoru=悟
+satoru=悟
+SATORU=悟
+
+Gojo Satoru=五条悟
+gojo satoru=五条悟
+
+Geto=夏油
+geto=夏油
+GETO=夏油
+
+Suguru=杰
+suguru=杰
+SUGURU=杰
+
+Geto Suguru=夏油杰
+geto suguru=夏油杰
+
+Gojou=五条
+gojou=五条
+
+Satosugu=五夏
+satosugu=五夏
+
+Sugusato=夏五
+sugusato=夏五
+
+Gojo/Geto=五夏
+Geto/Gojo=夏五
+
+Yuji=悠仁
+Itadori=虎杖
+Itadori Yuji=虎杖悠仁
+
+Megumi=惠
+Fushiguro=伏黑
+Fushiguro Megumi=伏黑惠
+
+Nobara=野蔷薇
+Kugisaki=钉崎
+
+Yuta=忧太
+Okkotsu=乙骨
+Okkotsu Yuta=乙骨忧太
+
+Maki=真希
+Zenin=禅院
+
+Toge=棘
+Inumaki=狗卷
+
+Shoko=硝子
+Ieiri=家入
+Ieiri Shoko=家入硝子
+
+Nanami=七海
+Kento=建人
+Nanami Kento=七海建人
+
+Choso=胀相
+Sukuna=宿傩
+Kenjaku=羂索
+
+Jujutsu High=咒术高专
+Tokyo Jujutsu High=东京咒术高专
+
+The Strongest=最强
+
+Curse User=诅咒师
+Curse Users=诅咒师
+
+Cursed Spirit=咒灵
+Cursed Spirits=咒灵
+
+Cursed Technique=术式
+Cursed Techniques=术式
+
+Limitless=无下限术式
+Infinity=无下限
+Six Eyes=六眼
+
+Star Plasma Vessel=星浆体
+
+Hidden Inventory=怀玉篇
+Premature Death=玉折篇
+
+PWP=无剧情纯车
+Plot What Plot=无剧情纯车
+Porn Without Plot=无剧情纯车
+
+Hurt/Comfort=伤害与安慰
+Angst=虐心
+Fluff=甜饼
+Crack=搞笑整活
+Crack Treated Seriously=认真玩梗
+
+Slow Burn=慢热恋爱
+
+Friends to Lovers=朋友变恋人
+Enemies to Lovers=宿敌变恋人
+
+Mutual Pining=双向暗恋
+Unrequited Love=单恋
+
+Established Relationship=已交往
+Getting Together=恋爱发展
+
+Domestic Fluff=同居日常
+Family Feels=家庭温情
+
+Fix-It=修正原作
+Canon Divergence=原作分歧
+
+Alternate Universe=架空设定
+AU=架空设定
+
+Time Travel=时间穿越
+Time Loop=时间循环
+
+Dead Dove: Do Not Eat=死鸽预警
+Graphic Depictions of Violence=暴力描写
+Major Character Death=主要角色死亡
+
+Creator Chose Not To Use Archive Warnings=作者未使用预警
+No Archive Warnings Apply=无预警内容
+
+Top Gojo Satoru=攻五条悟
+Bottom Gojo Satoru=受五条悟
+
+Top Geto Suguru=攻夏油杰
+Bottom Geto Suguru=受夏油杰
+
+Power Bottom Geto Suguru=强势受夏油杰
+
+Service Top Gojo Satoru=服务型攻五条悟
+
+Switching=互攻
+Switch Couple=互攻
+
+Top=攻
+Bottom=受
+
+Dom=支配方
+Sub=顺从方
+
+OOC=角色性格偏离原作
+IC=符合原作性格
+
+POV=视角
+
+WIP=连载中
+Complete=已完结
+
+One Shot=一发完
+Drabble=短篇
+
+Prompt=点梗
+
+Headcanon=个人设定
+Canon=原作设定
+Fanon=同人共识
